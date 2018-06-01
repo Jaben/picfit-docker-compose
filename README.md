@@ -9,7 +9,7 @@ docker image build --tag picfit:v1 .
 
 ## Configure
 
-Configure the picfit instance by modifying the picfit-config/config.json file.
+Configure the picfit instance by modifying the `./picfit-config/config.json` file.
 
 ## Run
 

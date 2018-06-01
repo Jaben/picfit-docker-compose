@@ -1,0 +1,9 @@
+version: '3'
+services:
+  nginx:
+    image: picfit:v1
+    container_name: picfit
+    volumes:
+      - ./picfit-config:/etc/picfit
+    ports:
+      - 3001:3001

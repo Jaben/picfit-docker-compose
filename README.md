@@ -1,5 +1,5 @@
 # picfit-docker-compose
-Build and Run Dockerfile for Picfit Goland Image Server
+Build and Run Dockerfile for [Picfit Image Server](https://github.com/thoas/picfit)
 
 ## Build
 
